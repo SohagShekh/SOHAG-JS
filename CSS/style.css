@@ -1,0 +1,19 @@
+h2 {
+    color: blueviolet;
+    text-align: center;
+    font-size: 40px;
+}
+
+.bagbondi {
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.baggor {
+    width: 80px;
+    height: 70px;
+    border: 2px solid blueviolet;
+    float: left;
+    font-size: 40px;
+}
